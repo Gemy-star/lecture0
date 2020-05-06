@@ -1,0 +1,19 @@
+p {
+    color: blue;
+    text-align: left;
+    text-decoration: cadetblue;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+li {
+    color: brown;
+}
+
+h2 {
+    text-align: right;
+    color: coral;
+}
